@@ -68,4 +68,12 @@ Application now should be ready to use.
 
 4. In this page you can start by either making a search for a certain movie or pick one from the trending movies. In the movie card, click the "+" button on the bottom right to add this movie to your list.
 
-![Search movies]("https://i.ibb.co/jVb3j6X/Search-movie.png)
+![Search movies](https://i.ibb.co/jVb3j6X/Search-movie.png)
+
+5. Now the movie should be saved to your watchlist. Add whatever movie you like and then navigate to your list by clicking My List on the navigation bar i have mentioned earlier.
+
+![Movie saved](https://i.ibb.co/jR21PWw/Movie-saved.png)
+
+6. In here you can manage your list by sorting, making a search or deleting. Enjoy!
+
+   ![My list](https://i.ibb.co/XZYZdFW/my-list.png)
