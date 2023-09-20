@@ -30,14 +30,12 @@
                                         <p class="text-secondary mb-1">{{Auth::user()->email}}</p>
                                         <form action="{{route('editprofile-post')}}" method="POST" enctype="multipart/form-data"
                                               id="editProfileForm">
-                                            @csrf
                                             <label class="custom-button positive upload-button">
                                                 <input type="file" style="display: none" name="image"
                                                         onchange="previewProfilePhoto(event)" accept="image/*">
                                                     Upload Image
                                             </label>
                                             <button type="submit"></button>
-                                        </form>
                                     </div>
                                 </div>
                         </div>
@@ -47,8 +45,6 @@
                     <div class="row gutters-sm">
                         <div class="card mt-3">
                             <div class="card-body">
-                                <form action="{{route('editprofile-post')}}" method="POST" enctype="multipart/form-data"
-                                      id="editProfileForm">
                                 @csrf
                                 <div class="row">
                                     <div class="col-sm-4">

@@ -49,7 +49,7 @@
                 @auth
                     <li><a href="{{route('listindex')}}"><i class='bx bx-list-ul' ></i>My list</a></li>
                     <li><a class="nav-link scrollto" href="{{route('search')}}"><i class='bx bx-search-alt-2' ></i>Search Movies</a></li>
-                    <li class="dropdown"><a href="#"><i class='bx bxs-user'></i><span>{{Auth::user()->name}}</span> @isset(Auth::user()->img)<img src="{{asset('/public/images/'.Auth::user()->img)}}" alt="" class="profile-photo">@endisset <i
+                    <li class="dropdown"><a href="#"><i class='bx bxs-user'></i><span>{{Auth::user()->name}}</span> @isset(Auth::user()->img)<img src="{{asset('/images/'.Auth::user()->img)}}" alt="" class="profile-photo">@endisset <i
                                 class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li><a href="{{route('profile')}}"><i class='bx bxs-user-detail' ></i>Profile</a></li>

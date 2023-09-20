@@ -17,7 +17,7 @@ class MyList extends Component
     public Authenticatable $user;
 
     protected string $sortField ='original_title';
-    public string $sortDirection ='DESC';
+    protected string $sortDirection ='DESC';
 
     public string $search = '';
 
@@ -35,7 +35,7 @@ class MyList extends Component
 
 
     /**
-     * Renders the LiveWire Component
+     * Renders the component
      *
      * @return Application|Factory|View|\Illuminate\Foundation\Application
      */

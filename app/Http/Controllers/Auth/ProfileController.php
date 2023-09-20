@@ -77,7 +77,7 @@ class ProfileController extends Controller
                 $this->user['info'] = $request->input('info');
             }
 
-            if ($request->hasFile('image')) {
+            if ($request->has('image')) {
                 $filename = $request->file('image')->getClientOriginalName();
                 $request->file('image')->storeAs('/images', $filename);
                 $this->user['img'] = $filename;
