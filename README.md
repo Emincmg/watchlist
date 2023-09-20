@@ -51,3 +51,8 @@ To perform the installation, you will need the following requirements:
     php artisan migrate
 
 Application now should be ready to use.
+
+## Usage
+
+Go to [http://localhost](http://localhost) to go to application landing page. It should look like this:
+(https://ibb.co/Vt71gxW)
