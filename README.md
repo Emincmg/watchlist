@@ -1,5 +1,5 @@
 
-## About Watchlist
+<div align="center">## About Watchlist</div>
 
 This application is a watchlist application that has been assigned as a task from the company xenovo.com. All of its functions have been configured according to the documentation provided by xenovo.com. With this application, you can: 
 
@@ -8,7 +8,7 @@ This application is a watchlist application that has been assigned as a task fro
 - Make your own wathclist.
 - Create and edit your profile.
 
-## Installation
+<div align="center">## Installation</div>
 
 To perform the installation, you will need the following requirements:
 
@@ -18,7 +18,7 @@ To perform the installation, you will need the following requirements:
 
 
 
-  ### Installation Steps
+  <div align="center">### Installation Steps</div>
 
 1. First, clone this repository:
 
