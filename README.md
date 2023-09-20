@@ -12,6 +12,8 @@ This application is a watchlist application that has been assigned as a task fro
 
 To perform the installation, you will need the following requirements:
 
+- Php version 8.1 or higher
+- Laravel version 10
 - [Docker Desktop](https://www.docker.com/products/docker-desktop).
 - [WSL 2](https://learn.microsoft.com/en-us/windows/wsl/install) Up and running with a Linux distro
 - [PhpStorm](https://www.jetbrains.com/phpstorm/) or An IDE Compatible with Php Laravel framework.
