@@ -16,6 +16,8 @@ To perform the installation, you will need the following requirements:
 - [WSL 2](https://learn.microsoft.com/en-us/windows/wsl/install) Up and running with a Linux distro
 - [PhpStorm](https://www.jetbrains.com/phpstorm/) or An IDE Compatible with Php Laravel framework.
 
+
+
   Installation Steps
 
 1. First, clone this repository:
