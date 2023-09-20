@@ -76,4 +76,4 @@ Application now should be ready to use.
 
 6. In here you can manage your list by sorting, making a search or deleting. Enjoy!
 
-   ![My list](https://i.ibb.co/XZYZdFW/my-list.png)
+![My list](https://i.ibb.co/XZYZdFW/my-list.png)
