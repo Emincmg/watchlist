@@ -55,4 +55,4 @@ Application now should be ready to use.
 ## Usage
 
 Go to [http://localhost](http://localhost) to go to application landing page. It should look like this:
-![Landing page](https://ibb.co/Vt71gxW)
+![Landing page](https://i.ibb.co/Czkcb65/Landing-Page.png)
