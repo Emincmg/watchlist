@@ -41,7 +41,13 @@ To perform the installation, you will need the following requirements:
 5. Run the containers:
 
     ```bash
-   ./vendor/bin/sail up -d
+   ./vendor/bin/sail up 
 
-6. Once the containers are up and running, you can access the Watchlist application in your web browser at http://localhost. The application should now be ready to use.
+6. Once the containers are up and running, you can access the Watchlist application in your web browser at http://localhost. But before that;
 
+7. In the 'task-watchlist-laravel.test-1' container's terminal, run the migrations:
+
+   ```bash
+    php artisan migrate
+
+Application now should be ready to use.
